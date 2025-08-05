@@ -1,6 +1,6 @@
 import os
 
-restaurantes = ['Abbraccio', 'Outback', 'Rustrial']
+restaurantes = ['Abbraccio', 'Outback', 'Rustrial', 'Jerônimo']
 
 def voltar_ao_menu():
       input('Digite uma tecla para voltar ao menu principal. ')
